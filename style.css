@@ -12,7 +12,7 @@ body{
 .card {
     width: 90%;
     max-width: 470px;
-    background: linear-gradient(135deg, #00feba, #5b548a);
+    background: linear-gradient(135deg, #ff5000, #FDE217 );
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
@@ -105,4 +105,14 @@ body{
     font-size: 14px;
     margin-top: 10px;
     display: none;
+}
+
+.footer {
+position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
 }
